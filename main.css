@@ -1,0 +1,32 @@
+
+body{
+    color: black;
+    background-color:#009A17;
+    font-family: 'Space Mono', monospace;
+}
+/*font and text color*/ 
+h1, p{
+    text-align: center;
+}
+div.container{
+    text-align: center;
+}
+ol.website{
+    display: inline-block;
+    text-align: left;
+}
+div.bottle{
+    text-align: center;
+}
+ol.image{
+    display: inline-block;
+    text-align: left;
+}
+/*centering text and list*/
+div.solid{
+    background-color: #C0C0C0;
+    border-style: solid;
+    width: fit-content;
+    margin: auto;
+}
+/*this puts a border around the text, changes background color in border, and adjusts border to fit around the text*/
